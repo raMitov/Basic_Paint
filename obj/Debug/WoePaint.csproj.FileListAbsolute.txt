@@ -1,0 +1,10 @@
+C:\Users\chizm\source\repos\WoePaint\bin\Debug\WoePaint.exe.config
+C:\Users\chizm\source\repos\WoePaint\bin\Debug\WoePaint.exe
+C:\Users\chizm\source\repos\WoePaint\bin\Debug\WoePaint.pdb
+C:\Users\chizm\source\repos\WoePaint\obj\Debug\WoePaint.csproj.AssemblyReference.cache
+C:\Users\chizm\source\repos\WoePaint\obj\Debug\WoePaint.Form1.resources
+C:\Users\chizm\source\repos\WoePaint\obj\Debug\WoePaint.Properties.Resources.resources
+C:\Users\chizm\source\repos\WoePaint\obj\Debug\WoePaint.csproj.GenerateResource.cache
+C:\Users\chizm\source\repos\WoePaint\obj\Debug\WoePaint.csproj.CoreCompileInputs.cache
+C:\Users\chizm\source\repos\WoePaint\obj\Debug\WoePaint.exe
+C:\Users\chizm\source\repos\WoePaint\obj\Debug\WoePaint.pdb
