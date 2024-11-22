@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{7EB7D39A-7306-4952-840C-538B6F44FD1F}|WoePaint.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EB7D39A-7306-4952-840C-538B6F44FD1F}|WoePaint.csproj|c:\\users\\chizm\\source\\repos\\woepaint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7EB7D39A-7306-4952-840C-538B6F44FD1F}|WoePaint.csproj|C:\\Users\\chizm\\source\\repos\\WoePaint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7EB7D39A-7306-4952-840C-538B6F44FD1F}|WoePaint.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -34,9 +34,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\chizm\\source\\repos\\WoePaint\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\chizm\\source\\repos\\WoePaint\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADwAAAA0AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\chizm\\source\\repos\\WoePaint\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAqwI8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T14:32:13.714Z",
               "IsPinned": true,
@@ -56,8 +56,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\chizm\\source\\repos\\WoePaint\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\chizm\\source\\repos\\WoePaint\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\chizm\\source\\repos\\WoePaint\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T07:07:25.754Z",
               "EditorCaption": " [Design]"
@@ -68,9 +68,9 @@
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\chizm\\source\\repos\\WoePaint\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\chizm\\source\\repos\\WoePaint\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\chizm\\source\\repos\\WoePaint\\Form1.Designer.cs*",
+              "RelativeToolTip": "Form1.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T13:59:22.546Z",
               "EditorCaption": ""
@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\chizm\\source\\repos\\WoePaint\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T13:59:12.349Z",
               "EditorCaption": ""
